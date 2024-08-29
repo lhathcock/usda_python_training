@@ -11,3 +11,6 @@ conda install opencv
 conda install gdal
 
 matplotlib should grab numpy as a dependency.
+
+Notebooks should now automatically download the necessary data thanks
+to code/storage from Dr. Kerrie Geil (https://github.com/kerriegeil). Thanks very much!
